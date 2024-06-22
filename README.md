@@ -3,7 +3,7 @@
 ## Descripción
 Api-rest simple, realizado en typescript+Express
 
-##Tecnologías utilizadas
+## Tecnologías utilizadas
 - Typescript
 - Node.js
 - Express
